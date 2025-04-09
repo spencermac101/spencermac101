@@ -1,6 +1,6 @@
-# Hey, I'm Spencer
+# Spencer Macdonald
 
-### 🏗️ Building the Future of Smart Glasses & On-Device Intelligence  
+### 🏗️ On-Device Intelligence  
 
-I'm an entrepreneur working at the intersection of **computer vision, wearable technology, and on-device machine learning**. 
+If you're interested in **computer vision, conversational speech, and on-device machine learning**, reach out to me on X DM - @spencermac101. 
 
